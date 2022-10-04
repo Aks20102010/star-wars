@@ -9,4 +9,6 @@ import java.util.List;
 @Service
 public interface StarWarService {
     public List<StarWar> getAllStarWars();
+    public List<StarWar> getAllStarWarsPerPage(Integer pageSize);
+
 }

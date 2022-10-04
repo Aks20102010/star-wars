@@ -1,4 +1,4 @@
-package com.dzm.starwars;
+package com.dzm.starwars.configuration;
 
 import org.springframework.boot.SpringBootConfiguration;
 import org.springframework.context.annotation.Bean;
